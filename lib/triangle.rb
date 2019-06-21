@@ -8,7 +8,7 @@ class Triangle
   end
 
   def kind
-    
+
     return type
   end
 end
